@@ -1,2 +1,2 @@
 # Agenda
-Projeto de uma agenda desenvolvido em Pascal, Delphie
+Projeto de uma agenda 
