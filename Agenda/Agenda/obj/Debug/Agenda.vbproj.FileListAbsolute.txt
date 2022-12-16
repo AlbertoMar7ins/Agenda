@@ -1,0 +1,12 @@
+c:\users\aluno\documents\visual studio 2013\Projects\Agenda\Agenda\bin\Debug\Agenda.exe.config
+c:\users\aluno\documents\visual studio 2013\Projects\Agenda\Agenda\bin\Debug\agenda.mdf
+c:\users\aluno\documents\visual studio 2013\Projects\Agenda\Agenda\bin\Debug\agenda_log.ldf
+c:\users\aluno\documents\visual studio 2013\Projects\Agenda\Agenda\bin\Debug\Agenda.exe
+c:\users\aluno\documents\visual studio 2013\Projects\Agenda\Agenda\bin\Debug\Agenda.pdb
+c:\users\aluno\documents\visual studio 2013\Projects\Agenda\Agenda\bin\Debug\Agenda.xml
+c:\users\aluno\documents\visual studio 2013\Projects\Agenda\Agenda\obj\Debug\Agenda.Form1.resources
+c:\users\aluno\documents\visual studio 2013\Projects\Agenda\Agenda\obj\Debug\Agenda.Resources.resources
+c:\users\aluno\documents\visual studio 2013\Projects\Agenda\Agenda\obj\Debug\Agenda.vbproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2013\Projects\Agenda\Agenda\obj\Debug\Agenda.exe
+c:\users\aluno\documents\visual studio 2013\Projects\Agenda\Agenda\obj\Debug\Agenda.xml
+c:\users\aluno\documents\visual studio 2013\Projects\Agenda\Agenda\obj\Debug\Agenda.pdb
